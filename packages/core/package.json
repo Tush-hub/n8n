@@ -38,7 +38,7 @@
     "@types/xml2js": "catalog:"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "3.808.0",
+    "@aws-sdk/client-s3": "3.894.0",
     "@langchain/core": "catalog:",
     "@n8n/backend-common": "workspace:^",
     "@n8n/client-oauth2": "workspace:*",
@@ -60,7 +60,7 @@
     "iconv-lite": "catalog:",
     "jsdom": "23.0.1",
     "jsonwebtoken": "catalog:",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "luxon": "catalog:",
     "mime-types": "2.1.35",
     "n8n-workflow": "workspace:*",
